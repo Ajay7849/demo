@@ -40,3 +40,5 @@ const hiej = arr.filter((n) => {
   }
 });
 console.log(hiej);
+
+console.log("Console from test");
